@@ -1,1 +1,10 @@
 node_modules/
+*/node_modules/
+node_modules/*
+*node_modules/*
+*node_modules*
+/node_modules/*/*
+./node_modules/
+./node_modules/*
+./node_modules/*/*
+# блядь да добавляйся сука, заебал уже
