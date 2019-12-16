@@ -8,3 +8,5 @@ node_modules/*
 ./node_modules/*
 ./node_modules/*/*
 # блядь да добавляйся сука, заебал уже
+node_modules/
+jspm_packages/
