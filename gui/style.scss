@@ -1,0 +1,36 @@
+$dark: #45423b;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  background-color: $dark;
+}
+#logo {
+  left: 50%;
+  top: 5%;
+  width: 128px;
+  position: relative;
+  margin: 0;
+  transform: translate(-50%);
+  animation-name: logo;
+  animation-duration: 5000s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes logo {
+  from {
+width:128px
+  }
+to{width:512px}
+}

@@ -1,0 +1,14 @@
+{
+  "https://repo.l.co.ua/": [
+    "pixi.min.js",
+    "three.min.js",
+    "pixi.min.js.map",
+    "index.html",
+    "msc.js",
+    "pre-msc.js",
+    "game.js",
+    "GLTFLoader.js",
+    "run.js",
+    "cannon.min.js"
+  ]
+}
